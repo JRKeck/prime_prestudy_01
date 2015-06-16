@@ -1,4 +1,10 @@
 body {
-    color:#0000FF;
-    margin: 10px 20px;    
+    color:#000;
+    margin: 10px 30px;
+}
+h1 {
+    font-size: 32px;
+}
+p {
+    margin-left: 10px;
 }
